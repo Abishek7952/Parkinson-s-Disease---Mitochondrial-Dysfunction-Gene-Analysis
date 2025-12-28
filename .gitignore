@@ -1,0 +1,14 @@
+venv
+/venv
+.venv
+.venv
+env
+env/
+ENV
+ENV/
+pyvenv.cfg
+lib/
+lib64/
+include/
+bin/
+share/  
